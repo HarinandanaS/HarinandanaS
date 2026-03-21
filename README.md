@@ -1,23 +1,41 @@
-# Hi 👋 I'm Harinandana S
+<h1 align="center">Hi 👋, I'm Harinandana S</h1>
+<h3 align="center">Data analyst learner | BTECH Student | Data visualisation</h3>
 
-🎓 BTECH Student  
-💻 Interested in Programming & Data analyst  
-🌱 Currently Learning Web Development  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Data analyst+Learner;Future+Ethical+Hacker;Passionate+Programmer" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 About Me
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+- 🎓 BTECHStudent  
+- 🔐 Learning programming 
+- 💻 Interested in statistics & probalilty and Data visualisation  
+- 🌱 Currently improving coding skills  
+
+---
+
+## ⚡ Tech Stack
+
+![C](https://img.shields.io/badge/C-00ff00?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-00ff00?style=for-the-badge&logo=java)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HarinandanaS&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=HarinandanaS&show_icons=true&theme=chartreuse-dark)
 
-![Streak](https://streak-stats.demolab.com/?user=HarinandanaS&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=HarinandanaS&theme=chartreuse-dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinandanaS&layout=compact&theme=radical)
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram)](https://instagram.com/_harinandana.s)
+
+[![Gmail](https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail)](mailto:harinandana76@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/harinandana-s-51b182330)
