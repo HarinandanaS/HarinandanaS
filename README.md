@@ -1,7 +1,7 @@
-# Hi 👋 I'm Hari Nandana
+# Hi 👋 I'm Harinandana S
 
-🎓 MCA Student  
-💻 Interested in Programming & Cybersecurity  
+🎓 BTECH Student  
+💻 Interested in Programming & Data analyst  
 🌱 Currently Learning Web Development  
 
 ---
