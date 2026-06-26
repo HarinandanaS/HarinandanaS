@@ -85,22 +85,30 @@
 
 ---
 🚀 Featured Projects
--🛒 Blinkit Sales Dashboard
--🍕 Pizza Sales Dashboard
--🏏 IPL Dashboard
--🎓 Student Performance Analysis
+
+• Blinkit Sales Dashboard
+• Pizza Sales Dashboard
+• IPL Dashboard
+• Student Performance Analysis
+
+----------------------------
+
 📜 Certifications
--NASSCOM
--AWS Cloud
--Data Visualization using Python
--NIT Ragam Tech Fest
--NDLI
+
+• NASSCOM
+• AWS Cloud
+• Data Visualization using Python
+• NIT Ragam Tech Fest
+• NDLI
+
+----------------------------
 
 🏆 Achievements
--Hackathon Participant
--Data Analytics Projects
--Python Projects
--Power BI Dashboards
+
+• Hackathon Participant
+• Data Analytics Projects
+• Python Projects
+• Power BI Dashboards
 
 ---
 ## 🌐 Connect With Me
