@@ -9,10 +9,15 @@
 ## 🧑‍💻 About Me
 
   -🎓 B.Tech Computer Science Engineering Student
+  
   -📍 Kerala, India
+  
   -📊 Passionate about Data Analytics & Business Intelligence
+  
   -🐍 Skilled in Python, SQL, Excel & Power BI
+  
   -📈 Interested in Data Visualization and Dashboard Development
+  
   -🌱 Currently learning Advanced Power BI, Pandas & Machine Learning
 ---
 
