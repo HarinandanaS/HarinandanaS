@@ -19,6 +19,7 @@
   -📈 Interested in Data Visualization and Dashboard Development
   
   -🌱 Currently learning Advanced Power BI, Pandas & Machine Learning
+  
 ---
 
 ## 🛠️ Tech Stack
