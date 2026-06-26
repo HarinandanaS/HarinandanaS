@@ -84,33 +84,41 @@
 ![Streak](https://streak-stats.demolab.com/?user=HarinandanaS&theme=chartreuse-dark)
 
 ---
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-• Blinkit Sales Dashboard
-• Pizza Sales Dashboard
-• IPL Dashboard
-• Student Performance Analysis
+- 🛒 Blinkit Sales Dashboard
 
-----------------------------
+- 🍕 Pizza Sales Dashboard
 
-📜 Certifications
+- 🏏 IPL Dashboard
 
-• NASSCOM
-• AWS Cloud
-• Data Visualization using Python
-• NIT Ragam Tech Fest
-• NDLI
-
-----------------------------
-
-🏆 Achievements
-
-• Hackathon Participant
-• Data Analytics Projects
-• Python Projects
-• Power BI Dashboards
+- 🎓 Student Performance Analysis
 
 ---
+
+## 📜 Certifications
+
+- ✅ NASSCOM
+
+- ☁️ AWS Cloud
+
+- 📊 Data Visualization using Python
+
+- 🎪 NIT Ragam Tech Fest
+
+- 📚 NDLI
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Hackathon Participant
+
+- 📈 Data Analytics Projects
+
+- 🐍 Python Projects
+
+- 📊 Power BI Dashboards
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram)](https://instagram.com/_harinandana.s)
